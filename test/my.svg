@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="200">
+<style>text{font-family:'Droid Sans Mono';font-weight:normal;font-style:normal;}</style>
+<rect width="100%" height="100%" style="fill:black"></rect>
+<text transform="translate(21,90)" font-size="86" style="fill:rgb(58, 186, 118)">word</text>
+<text transform="translate(4,175)" font-size="64" style="fill:rgb(46, 179, 124)">cloud</text>
+<text transform="translate(190,169)" font-size="47" style="fill:rgb(63, 188, 115)">example</text>
+<text transform="translate(222,114)" font-size="42" style="fill:rgb(205, 225, 29)">showing</text>
+</svg>
