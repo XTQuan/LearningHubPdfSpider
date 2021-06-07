@@ -7,10 +7,9 @@ import PyPDF2
 headers = {
   'Cookie': 'AKAMAI_AUTH_COOKIE=~expires=1619334394~access=/icontent_e/CUSTOM_eu/sap/lhcust/Steeb/*!/icontent_e/CUSTOM/sap/*!/icontent_e/CUSTOM_eu/sap/lhcust/Hitachi/*!/icontent_e/CUSTOM_eu/sap/lhcust/1335114/*!/icontent_e/CUSTOM_eu/sap/lhcust/16223/*!/icontent_e/CUSTOM_eu/sap/lhcust/SASHAKTA/*!/icontent_e/CUSTOM_eu/sap/lhcust/PGK/*!/icontent_e/CUSTOM_eu/sap/lhcust/IBM/*!/icontent_e/CUSTOM_eu/sap/lhcust/electromech/*!/icontent_e/CUSTOM_eu/sap/lhcust/MUR/*!/icontent_e/CUSTOM_eu/sap/lhcust/MB/*!/icontent_e/CUSTOM_eu/sap/*!/icontent_e/CUSTOM_eu/sap/lhcust/2017939/*!/icontent_e/CUSTOM/platlap/*!/icontent_e/CUSTOM_eu/sap/lhcust/941031/*!/icontent_e/CUSTOM_eu/sap/lhcust/CSC/*!/icontent_e/CUSTOM_eu/sap/lhcust/1400618/*!/icontent/public/*!/icontent_e/public/*~md5=7bbcb5c5c4eb5e936d17cd0d8efd173b; BIGipServerP_ORIGIN-EU-ICONTENT.PLATEAU.COM-80=!Fh9Ui1aeqZGWnPJLEOpnqJbIIHncHA/gz5/N4yHQTKzhqExPkPSYg686qyqUlBnsGfuI+QBQeXA0Aw==; SKIP_LMS_MAINT_NOTIFY=Y; TENANT_AUTH_COOKIE=saplearnhub; route=032b090601adaf5c1ce98da7f649827e3fdc8795'
 }
-#bookName = 'ADM103_EN_Col21_v2' # 253
-bookName = 'AC233_EN_Col16_v1' # 175
+bookName = 'SACP20_EN_Col26' # SACP20_EN_Col26-198
 curPage = 1
-allPage = 175
+allPage = 198
 
 # url = "https://saplearninghub.plateau.com/icontent_e/CUSTOM_eu/sap/self-managed/ebook/SAPX01_EN_Col17_v2/xml/topic1.svg"
 urlTopic = "https://saplearninghub.plateau.com/icontent_e/CUSTOM_eu/sap/self-managed/ebook/" + bookName + "/xml/topic"
